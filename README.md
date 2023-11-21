@@ -1,4 +1,7 @@
-# README #
+# SFAS24-Pogramming #
+
+Submission for Search For A Star 2024 Game Programming Entry
+
 
 This is the starting project for the Search For A Star competition for 2024. You should base your project on the existing code files, you should not start again from scratch, otherwise marks will be lost. This is to demonstrate you are able to read and understand code written by other programmers. 
 This project was written using Microsoft Visual Studio Community 2022 using the Windows 10 SDK and the DirectX Tool Kit Desktop 2019 package.
